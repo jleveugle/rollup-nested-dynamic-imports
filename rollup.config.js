@@ -1,6 +1,5 @@
 export default {
     input: 'index.js',
-    experimentalCodeSplitting: true,
     output: {
       dir: './dist',
       format: 'cjs',
