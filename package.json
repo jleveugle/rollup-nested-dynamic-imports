@@ -1,0 +1,14 @@
+{
+  "name": "rollup-nested-dynamic-imports",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "rollup -c"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^0.66.6"
+  }
+}
